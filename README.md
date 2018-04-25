@@ -19,3 +19,4 @@ Combine your knowledge of object relationships in object oriented ruby and your 
 
 ## Resources
 - [Solution code for review](https://github.com/learn-co-curriculum/oo-sql-joins-ecommerce-lv)
+<p data-visibility='hidden'>PHRG ORMs and SQL Joins- Overview</p>
